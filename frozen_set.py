@@ -1,1 +1,7 @@
-
+print("frozenset Data type")
+s=(188,"hai",True,3789,100,200,300)
+t=set(s)
+print(type(t))
+print(t)
+t.add(False)
+print(t[1])
