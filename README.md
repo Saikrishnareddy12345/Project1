@@ -1,7 +1,2 @@
 # abc
-a=10
-b=20
-if a>b:
-  print(a," is big")
-else:
-  print("b,"b is big")
+https://saikrishnareddy12345.github.io/Project1/   Visit a Link to see my repository
